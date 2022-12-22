@@ -2,37 +2,97 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A composite slab has two layers having thermal conductivities in the ratio of 1:2. If the thickness is the same for each layer then the equivalent thermal conductivity of the slab would be",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1/3",
+        "b": "2/3",
+        "c": "2",
+        "d": "4/3"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "A composite wall of a furnace has two layers of equal thickness having thermal conductivities in the ratio 2:3. What is the ratio of the temperature drop across the two layers?",
+      "answers": {
+        "a": "2:3",
+        "b": "3:2",
+        "c": "1:2",
+        "d": "log<sub>e</sub><sup>2</sup>:log<sub>e</sub><sup>3</sup>"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Whenever there is temperature difference",
+      "answers": {
+        "a": "Heat will transfer from hotter object to colder object",
+        "b": "Heat will be transferred from colder object to hoter object",
+        "c": "Heat will not be transferred",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Cast iron can be viewed as a composite material.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": ""
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the thermal conductivity of Bakelit",
+      "answers": {
+        "a": "1.35 W/m K",
+        "b": "1.4 W/m K",
+        "c": "2.5 W/m K",
+        "d": "3.2 W/m K"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Material with low thermal conductivity prevent heat transmission",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]

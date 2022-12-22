@@ -1,1 +1,1 @@
-### Aim of the experiment
+To find out total thermal resistance and total thermal conductivity of composite slab.
