@@ -2,38 +2,85 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A composite wall generally consists of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "One homogenous layer",
+        "b": "Multiple heterogeneous layers",
+        "c": "Multiple homogenous layers",
+        "d": "Double homogenous layers"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When a composite wall of three layers in series having thermal resistances R1, R2 and R3 respectively. The heat transfer takes place normal to the surface of the layers. How is the total thermal resistance of the composite system calculated?",
+      "answers": {
+        "a": "1 / (R1 + R2 + R3)",
+        "b": "( (1 / R1) + (1 / R2) + (1 / R3) )",
+        "c": "(R1 + R2 + R3)",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "A hot fluid flow inside the tube covered with a layer of thermal insulation is an example of composite system.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Select the only wrong statement.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Heat can be converted into work",
+        "b": "Heat can be reflected by a mirror",
+        "c": "Heat waves cannot pass through vacuum",
+        "d": "Heat is a form of energy"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Heat transfer by conduction is directly proportional to",
+      "answers": {
+        "a": "(Thermal potential difference)/(Thermal resistance)",
+        "b": "(Thermal resistance)/(Thermal potential difference)",
+        "c": "(Thermal potential difference)/(Thermal resistance)",
+        "d": "Thermal resistance"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
     }
   ]
 }
