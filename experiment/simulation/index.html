@@ -80,6 +80,7 @@ $('#datatable2').css('top','340px');
 function startsim()
 {
 	simTimeId=setInterval("time=time+0.1; comment1(); ",'100');
+  
 }
 
 // switches state of simulation between temp 0:Playing & 1:Paused
@@ -99,6 +100,8 @@ function simstate()
       
         TimeInterval = setInterval("time1 = time1 + .1; simperiod();",'100'); 
         TimeInterval1 = setInterval("time2 = time2 + 1; varinit()", '1000');
+        $("#vspinner").spinner({disabled : true});
+        $("#vslider").slider({disabled : true});
     } 
   }
 }
@@ -474,8 +477,8 @@ function comment1(){
   if(v!=0){
     time = 0;
     temp = 1;
-    $("#vspinner").spinner({disabled : true});
-    $("#vslider").slider({disabled : true});
+    // $("#vspinner").spinner({disabled : true});
+    // $("#vslider").slider({disabled : true});
 
     clearInterval(simTimeId);
   }
