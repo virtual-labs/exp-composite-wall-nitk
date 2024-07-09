@@ -10,10 +10,10 @@
         "d": "Double homogenous layers"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b). A simple wall has one homogenous layer.",
+        "b": "Correct, the right answer is (b). A composite wall generally consists of multiple heterogeneous layers. This means it consists of layers of wall with different wall properties.",
+        "c": "The right answer is (b). If a wall has muliple homogeneous layers i.e. it consists of layers of wall with same property, then it is considered as a single wall but the thickness will increase with respect to no. of layers.",
+        "d": "The right answer is (b). If a wall has two homogeneous layers i.e. it consists of 2 layers of wall with same property, then it is considered as a single wall with thickness of addition of 2 wall thickness."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,12 +27,12 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). Thermal resistance can be considered with the scenario like electric resistance. When the walls are layered, the thermal resistance is in series connection, just like electric resistance in series. The total thermal resistance of a composite system, such as a wall with three layers in series, is calculated by simply adding up the thermal resistances of each layer.",
+        "b": "The right answer is (c). Thermal resistance can be considered with the scenario like electric resistance. When the walls are layered, the thermal resistance is in series connection, just like electric resistance in series. The total thermal resistance of a composite system, such as a wall with three layers in series, is calculated by simply adding up the thermal resistances of each layer.",
+        "c": "Correct, the right answer is (c). Thermal resistance can be considered with the scenario like electric resistance. When the walls are layered, the thermal resistance is in series connection, just like electric resistance in series. The total thermal resistance of a composite system, such as a wall with three layers in series, is calculated by simply adding up the thermal resistances of each layer.",
+        "d": "The right answer is (c). Thermal resistance can be considered with the scenario like electric resistance. When the walls are layered, the thermal resistance is in series connection, just like electric resistance in series. The total thermal resistance of a composite system, such as a wall with three layers in series, is calculated by simply adding up the thermal resistances of each layer."
       },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "intermediate"
     },
     {
@@ -42,8 +42,8 @@
         "b": "False"
       },
       "explanations": {
-        "a": "",
-        "b": ""
+        "a": "Correct, the right answer is (a). In this scenario, heat transfer occurs through multiple layers of different materials - the fluid, the tube material, and the insulation. Each layer has its own thermal properties, and heat is transferred from the hot fluid, through the tube wall, and then through the insulation. This is a typical example of a composite system in heat transfer.",
+        "b": "The right answer is (a). In this scenario, heat transfer occurs through multiple layers of different materials - the fluid, the tube material, and the insulation. Each layer has its own thermal properties, and heat is transferred from the hot fluid, through the tube wall, and then through the insulation. This is a typical example of a composite system in heat transfer."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -57,10 +57,10 @@
         "d": "Heat is a form of energy"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). Heat can be converted to work, example take a steam engine or nuclear reactor.",
+        "b": "The right answer is (c). Mirrors, with a high index of reflective coating, can trap the infrared radiation emitted by various sources. However, the glass also absorbs some of the heat, reducing the amount left to reflect back. So, while mirrors do reflect some heat, the reflected heat is significantly reduced in comparison to the incident heat.",
+        "c": "Correct, the right answer is (c). Heat waves can pass through vaccum in the form of radiation. Take a example of the sun is giving heat to earth via space.",
+        "d": "The right answer is (c). Heat is a form of energy that can be converted to any other energies."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"
@@ -74,10 +74,10 @@
         "d": "Thermal resistance"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, the right answer is (a). The heat ransfer by conduction is directly proportional to thermal potential difference (ΔT) and inversely proportional to Thermal resistance (Rth).",
+        "b": "The right answer is (a). The heat ransfer by conduction is directly proportional to thermal potential difference (ΔT) and inversely proportional to Thermal resistance (Rth).",
+        "c": "The right answer is (a). The heat ransfer by conduction is directly proportional to thermal potential difference (ΔT) and inversely proportional to Thermal resistance (Rth).",
+        "d": "The right answer is (a). The heat ransfer by conduction is directly proportional to thermal potential difference (ΔT) and inversely proportional to Thermal resistance (Rth)."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"

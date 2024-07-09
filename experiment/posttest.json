@@ -10,10 +10,10 @@
         "d": "4/3"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d). The equivalent thermal conductivity of composite slab with two layers is (2*k1*k2)/(k1+k2). Lets take k1 = k and k2 = 2k. Then the equivalent thermal conductivity of the slab would be 4/3.",
+        "b": "The right answer is (d). The equivalent thermal conductivity of composite slab with two layers is (2*k1*k2)/(k1+k2). Lets take k1 = k and k2 = 2k. Then the equivalent thermal conductivity of the slab would be 4/3.",
+        "c": "The right answer is (d). The equivalent thermal conductivity of composite slab with two layers is (2*k1*k2)/(k1+k2). Lets take k1 = k and k2 = 2k. Then the equivalent thermal conductivity of the slab would be 4/3.",
+        "d": "Correct, the right answer is (d). The equivalent thermal conductivity of composite slab with two layers is (2*k1*k2)/(k1+k2). Lets take k1 = k and k2 = 2k. Then the equivalent thermal conductivity of the slab would be 4/3."
       },
       "correctAnswer": "d",
       "difficulty": "advanced"
@@ -27,10 +27,10 @@
         "d": "log<sub>e</sub><sup>2</sup>:log<sub>e</sub><sup>3</sup>"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b). We know that temperature is inversely proportional to thermal conductivity, so the ratio is 2:3.",
+        "b": "Correct, the right answer is (b). We know that temperature is inversely proportional to thermal conductivity, so the ratio is 2:3.",
+        "c": "The right answer is (b). We know that temperature is inversely proportional to thermal conductivity, so the ratio is 2:3.",
+        "d": "The right answer is (b). We know that temperature is inversely proportional to thermal conductivity, so the ratio is 2:3."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -44,10 +44,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, the right answer is (a). Whenever there is temperature difference, Heat will transfer from hotter object to colder object according to second law of thermodynamics.",
+        "b": "The right answer is (a). Whenever there is temperature difference, Heat will transfer from hotter object to colder object according to second law of thermodynamics.",
+        "c": "The right answer is (a). Whenever there is temperature difference, Heat will transfer from hotter object to colder object according to second law of thermodynamics.",
+        "d": "The right answer is (a). Whenever there is temperature difference, Heat will transfer from hotter object to colder object according to second law of thermodynamics."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -59,8 +59,8 @@
         "b": "False"
       },
       "explanations": {
-        "a": "",
-        "b": ""
+        "a": "Correct, the right answer is (a). Cast iron can be viewed as a composite material. It is an alloy of iron and carbon, with carbon content ranging from 2.5 - 4.0%",
+        "b": "The right answer is (a). Cast iron can be viewed as a composite material. It is an alloy of iron and carbon, with carbon content ranging from 2.5 - 4.0%"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -74,10 +74,10 @@
         "d": "3.2 W/m K"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b). The Pyrex 7740, Air Force, 1961 P has the thermal conductivity of 1.35 W/m K.",
+        "b": "Correct, the right answer is (b). The thermal conductivity of Bakelit is 1.4 W/m K.",
+        "c": "The right answer is (b). Barre Granite has the thermal conductivity of 2.5 W/m K.",
+        "d": "The right answer is (b). Wet Barre Granite with 1000 bar pressure has the thermal conductivity of 3.2 W/m K."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -89,8 +89,8 @@
         "b": "False"
       },
       "explanations": {
-        "a": "",
-        "b": ""
+        "a": "Correct, the right answer is (a). Material with low thermal conductivity prevent heat transmission. The material won't allow to allow heat inside them because of their strong intermolecular bond.",
+        "b": "The right answer is (a). Material with low thermal conductivity prevent heat transmission. The material won't allow to allow heat inside them because of their strong intermolecular bond."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
