@@ -13,6 +13,7 @@ const temperature6 = document.querySelector("#temp6");
 const temperature7 = document.querySelector("#temp7");
 const btnCheck1 = document.querySelector(".btn-check1");
 const btnCheck2 = document.querySelector(".btn-check2");
+const taskTitle = document.querySelector(".task-title");
 
 btnStart.addEventListener("click", initiateProcess);
 btnReset.addEventListener("click", resetAll);
@@ -58,12 +59,15 @@ function displayDiv(ele) {
   });
   if (ele.classList.contains("tool-objective")) {
     document.querySelector(".objective").classList.remove("hide");
+    taskTitle.textContent = "Objective";
   }
   if (ele.classList.contains("tool-description")) {
     document.querySelector(".description").classList.remove("hide");
+    taskTitle.textContent = "Description";
   }
   if (ele.classList.contains("tool-explore")) {
     document.querySelector(".explore").classList.remove("hide");
+    taskTitle.textContent = "Experiment";
     if (temp2 !== 1) {
       drawModel();
       startsim();
@@ -72,6 +76,7 @@ function displayDiv(ele) {
   }
   if (ele.classList.contains("tool-practice")) {
     document.querySelector(".practice").classList.remove("hide");
+    taskTitle.textContent = "Solve";
     if (temp2 == 1) {
       temp1 = 1;
       validation();
@@ -552,7 +557,7 @@ function validation() {
 
   document.querySelector(".graph-div").classList.remove("hide");
   document.querySelector(".questions").classList.remove("hide");
-  drawgraph("graph", datapoints, "Length from heater", "Average Temperatures");
+  drawgraph("graph", datapoints, "Length from heater (mm)", "Average Temperatures (°C)");
 
   btnCheck1.addEventListener("click", () => validateAnswer1());
   btnCheck2.addEventListener("click", () => validateAnswer2());
