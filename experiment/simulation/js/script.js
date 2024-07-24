@@ -575,7 +575,7 @@ function validateAnswer1() {
   if (!answer) {
     correctAnswer.classList.remove("hide");
     unit.innerHTML += " <span class='wrong'>&#x2717;</span>";
-    correctAnswer.innerHTML = '<p><span style=" color: #028102;">Correct answer</span> <span style="color: #e7722b;"> Q = '+r+' <sup>&deg;</sup>C/W</span> ';
+    correctAnswer.innerHTML = '<p><span style=" color: #028102;">Correct answer</span> <span style="color: #e7722b;"> R = '+r+' <sup>&deg;</sup>C/W</span> ';
     console.log("hi " +r);
   } else if (answer) {
     correctAnswer.classList.add("hide");
@@ -615,7 +615,7 @@ function resetAll() {
   currentVoltage = 0;
   vf = 0;
   document.querySelector(".correct-answer1").innerHTML = "";
-  document.querySelector(".question-unit1").innerHTML = `<sup>&deg;</sup>C/m`;
+  document.querySelector(".question-unit1").innerHTML = `<sup>&deg;</sup>C/W`;
   document.querySelector(".question-input1").value = "";
   document.querySelector(".correct-answer2").innerHTML = "";
   document.querySelector(".question-unit2").innerHTML = `W/m.K`;
