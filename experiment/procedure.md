@@ -12,7 +12,7 @@
 
    ![Alt text](images/expscreen.png)
 
-4. Select any one voltage value and click on the Start button <img src="images/startButton.png" alt="Alt text" > to perform the experiment,click Reset button <img src="images/resetButton.png" alt="Alt text" > to reset the experiment.
+4. Select any one voltage value and click on the Start button <img src="images/startButton.png" alt="Alt text" > to perform the experiment.A voltage source is selected by the user to produce heat Q (=VI) at the centre plane, and this heat will transfer in both directions (up and down) along the normal of the plane of slabs.Click Reset button <img src="images/resetButton.png" alt="Alt text" > to reset the experiment.
 
 5. After performing the experiment, click on the Solve icon <img src="images/solveicon.png" alt="Alt text" >,
 
