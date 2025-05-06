@@ -70,7 +70,7 @@
       "answers": {
         "a": "(Thermal potential difference)/(Thermal resistance)",
         "b": "(Thermal resistance)/(Thermal potential difference)",
-        "c": "(Thermal potential difference)/(Thermal resistance)",
+        "c": "(Thermal potential difference)*(Thermal resistance)",
         "d": "Thermal resistance"
       },
       "explanations": {

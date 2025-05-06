@@ -179,10 +179,10 @@
                       <span class="temp-text">T6(&deg;C)</span>
                       <span class="temp-val" id="temp6">27</span>
                     </div>
-                    <div class="temperature-group">
+                    <!-- <div class="temperature-group">
                       <span class="temp-text">T7(&deg;C)</span>
                       <span class="temp-val" id="temp7">28</span>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
                 <p class="comment"></p>
@@ -203,14 +203,14 @@
                     <div class="graph" id="graph"></div>
                   </div>
                   <div id="formula" style="visibility: hidden;">
-                    TA = T1 + T2/2 &deg;C <br>
-                    TB = T3 + T4/2 &deg;C <br>
-                    TC = T5 + T6/2 &deg;C 
+                    TA = (T1 + T2)/2 &deg;C <br>
+                    TB = (T3 + T4)/2 &deg;C <br>
+                    TC = (T5 + T6)/2 &deg;C 
                   </div>
 
 
                   <div class="questions">
-                    <p class="warning"> Please enter a value rounded upto two decimal points</p>
+                    <!-- <p class="warning"> Please enter a value rounded upto two decimal points</p> -->
                     <div class="question-one">
                       <div class="question-title">Thermal Resistance of a slab</div>
                       <div class="question-formula">R = <span style="font-size: large;" class="frac"><sup>TA - TC</sup><span>&frasl;</span><sub>Q</sub></span> °C/W
@@ -223,7 +223,7 @@
                     </div>
                     <div class="question-two">
                       <div class="question-title">Thermal conductivity</div>
-                      <div class="question-formula">K = <span style="font-size: large;" class="frac"><sup>Q.t</sup><span>&frasl;</span><sub>A.(TA-TC)</sub></span> W/m.k</div>
+                      <div class="question-formula">K = <span style="font-size: large;" class="frac"><sup>Q.t</sup><span>&frasl;</span><sub>A.ΔT</sub></span> W/m.K</div>
                       <p class="question-label">K =  </p>
                       <input class="question-input question-input2" type="number"/>
                       <p class="question-unit question-unit2">W/m.K</p>
