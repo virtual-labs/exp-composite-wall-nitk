@@ -104,7 +104,9 @@ h1 {
   cursor: pointer;
 }
 
-#v10,#v20,#v30{
+#v10,
+#v20,
+#v30 {
   cursor: pointer;
 }
 
@@ -320,7 +322,7 @@ h1 {
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.05);
 }
 
-.container2{
+.container2 {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -377,7 +379,7 @@ h1 {
   font-weight: 700;
 }
 
-#extraInfo{
+#extraInfo {
   grid-column: 1 / -1;
   justify-self: center;
   color: black;
@@ -424,6 +426,7 @@ h1 {
 }
 .question-unit {
   align-self: center;
+  justify-self: start;
 }
 .btn-check {
   padding: 0.5rem;
@@ -431,17 +434,15 @@ h1 {
   align-self: center;
 }
 
-#formula{
+#formula {
   grid-column: 1/-1;
   position: relative;
   justify-self: center;
   background-color: white; /* Optional: background color for better visibility */
   padding: 20px; /* Optional: padding around the content */
-  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Optional: subtle shadow */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
   border-radius: 10px; /* Optional: rounded corners */
-  
 }
-
 
 .correct-answer {
   grid-column: 1 / -1;
@@ -539,7 +540,6 @@ h1 {
   color: transparent;
   border: 0.3rem solid var(--clr-title-background);
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
-
 }
 .question-btn {
   padding: 1rem;
