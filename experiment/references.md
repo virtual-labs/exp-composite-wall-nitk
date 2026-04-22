@@ -10,8 +10,13 @@
     <li>C. P. Arora, Engineering Heat Transfer, Khanna Publishers, India, 1996.</li>
     <li><a href="https://www.youtube.com/watch?v=4G65iLk99wE">Heat Transfer - Chapter 3 - One Dimensional Conduction - Composite Wall</a></li>
     <li><a href="https://www.youtube.com/watch?v=MUFpcGMErnI">Mod-02 Lec-05 Critical and optimum insulation (Not directly related)</a></li>
-    <td>Developer : Dr. K V Gangadharan | NITK</br></br>
-    Contributors :
+<td>Developers:<br/> 
+    <ul style="list-style-type: none;">
+     <li>Dr. K V Gangadharan | NITK</li> 
+     <li>Dr. Parthasarathy P | NITK</li>
+    </ul>
+    </br> 
+      Contributors :
     <ul style="list-style-type: none;">
     <li>Prasad Mandave | 181ME147 | NITK</li>
     <li>Ahemad Daniyal | 181ME105 |  NITK</li>
