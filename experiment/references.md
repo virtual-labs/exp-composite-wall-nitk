@@ -12,10 +12,10 @@
     <li><a href="https://www.youtube.com/watch?v=MUFpcGMErnI">Mod-02 Lec-05 Critical and optimum insulation (Not directly related)</a></li>
 <td>Developers:<br/> 
     <ul style="list-style-type: none;">
-     <li>Dr. K V Gangadharan | NITK</li> 
      <li>Dr. Parthasarathy P | NITK</li>
+     <li>Dr. K V Gangadharan | NITK</li> 
     </ul>
-    </br> 
+    </br>   
       Contributors :
     <ul style="list-style-type: none;">
     <li>Prasad Mandave | 181ME147 | NITK</li>
